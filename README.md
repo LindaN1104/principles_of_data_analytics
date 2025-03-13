@@ -2,24 +2,33 @@
 
 Author: Linda Nikolajeva
 
-A quick summary about myslef. I hold a Honours Bachelor of Business in Marketing and Management, and a Honours Master of Science in Human Resource Management. I attended Technological University of the Shannon - Moylish and University of Limerick.
+## Abstract
+
+## Table of Contents
+
+note to self include anchor points that jump straight to the relevant sections
+
+## About Myself ... the Author
+A quick summary about myslef. I hold a Honours Bachelor of Business in Marketing and Management, and a Honours Master of Science in Human Resource Management. I attended the Technological University of the Shannon and the University of Limerick.
 
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5nVR28Ehlrax3IAo5yIwYH33zhJ71R_QSA&s" width="150" title="University of Limerick">
 
 <p align="center">
-  <img src="data:image/png;base64,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" width="150" title="Technological University of the Shannon">
+  <img src="data:image/png;base64,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" width="150" title="Technological University of the Shannon">
 </p>
 
 I am interested in how a business functions, I love to observe patterns, and come up with business solutions. I believe this is where my interest in data analytics began. I love pulling data and transforming it into a user friendly format, which hopefully then benefits the business decision making process.
 
+## What is principles_of_data_analytics (The Repository)
+### Purpose of This Repository
 This repository contains tasks.ipynb jupyter notebook.
 **[For quick access to the notebook click here.](tasks.ipynb)**
 
 tasks.ipynb is my submission for grading for Priniples of Data Analytics module. It is one of X modules for Higher Diploma in Science - Computing (Data Analytics), at the Atlantic Technological University Galway-Mayo. 
 This module is an introduction to the principles and fundamentals of data analytics, including the acquisition, cleaning and exploration of data sets. 
 
-As such, by the end of this module, April 2025, this repository should showcase my ability to
+As such, by the end of this module, 04 May 2025, this repository should showcase my ability to
 * Source and investigate sets of data.
 * Programmatically explore and visualise data.
 * Apply basic mathematical data analysis techniques to data sets.
@@ -27,13 +36,40 @@ As such, by the end of this module, April 2025, this repository should showcase 
 * Provide evidence in a decision-making process using a data set.
 * Appreciate the limitations of graphical representations in data intensive workflow
 
-## Setup
+*[Source for above info](https://springboardcourses.ie/details/14016)*
 
-1. Sign up for a free GitHub account
-2. Got to repository page in your browser
-3. Click green code button
-4. Click the code spaces tab
-5. Click create new codespace on main
+### tasks.ipynb Description
+
+What it is... what data set it uses... main points it looks at... etc...
+
+## Setup needed for tasks.ipynb in a GitHub Codespace
+This goes through the steps needed to access tasks.ipynb
+1. Sign Up for a GitHub Account
+    
+    If you don’t already have a GitHub account, go to [GitHub](https://github.com/) and sign up for a free account.
+
+2. Navigate to the Repository
+
+    Open your web browser and go to the repository page where tasks.ipynb is located. You can find the repository by searching for it on GitHub or by using this [direct link](https://github.com/LindaN1104/principles_of_data_analytics).
+    
+    [Navigate to the Repository](github_search_bar.png)
+
+3. Open the Code Options Menu
+    
+    On the repository page, click the green "Code" button, which is located near the top right of the file list. This will open a dropdown menu with multiple options for accessing the code.
+
+4. Select the Codespaces Tab
+    
+    In the dropdown menu, click on the "Codespaces" tab. This tab allows you to launch an online development environment directly in your browser.
+
+5. Create a New Codespace
+    
+    Click the "Create new Codespace on main" button. GitHub will then set up a cloud-based development environment, which may take a few moments. Once the Codespace is ready, you will have access to the repository files, including tasks.ipynb.
+
+Note to self... insert screenshots for above steps
+https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+
+Now, you can open tasks.ipynb and start working on it within the Codespace environment! 
 
 ## Technologies
 
@@ -42,3 +78,28 @@ As such, by the end of this module, April 2025, this repository should showcase 
 - GitHub
 - Code Spaces
 - Jupiter
+
+## Requirements
+
+what is required to run this notebook...
+
+## References Used to Format README
+note to self... maybe put this into table?
+
+[About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
+
+[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
+[Insert/overwrite shortcut key in Jupyter](https://stackoverflow.com/questions/37606190/insert-overwrite-shortcut-key-in-jupyter)
+
+[How to add images to README?](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github)
+
+[Markdown for Jupyter notebooks cheatsheet](https://www.ibm.com/docs/en/watson-studio-local/1.2.3?topic=notebooks-markdown-jupyter-cheatsheet)
+
+[How to indent a bulleted list in a README](https://stackoverflow.com/questions/26960735/how-do-you-indent-a-bulleted-list-in-a-readme-file-using-github-flavored-markdow)
+
+[15 Elements to Include in Your README](https://www.archbee.com/blog/readme-document-elements#:~:text=The%20README%20file%20guides%20users,%2C%20license%20information%2C%20and%20more.)
+
+[Help from Chat GPT - Set Up section](https://chatgpt.com/c/67d34263-9220-8005-b2e8-afe81ccc05ef)
+
+## End
